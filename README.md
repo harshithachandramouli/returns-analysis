@@ -14,7 +14,7 @@ This project explores return rate challenges in a simulated fashion e-commerce d
 - Modelled business impact of interventions (ROI: 10–15%)
 
 ## 📄 Project Materials
-- 👉 [**Read the full case study brief**]([link-to-PDF-or-Notion/Drive](https://drive.google.com/drive/u/1/folders/1rRbE7_wjNJqdLh1YT3yDYsoZ27T5Gsw7))
+- 👉 [**Read the full case study brief**](https://drive.google.com/drive/u/1/folders/1rRbE7_wjNJqdLh1YT3yDYsoZ27T5Gsw7)
 - 📊 [**View Tableau Dashboard**](https://public.tableau.com/app/profile/harshitha.c4275/viz/Ecommerceanalysis_17510204348490/Dashboard)
 
 ---
