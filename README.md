@@ -1,6 +1,6 @@
 # 📦 E-commerce Returns Optimisation – Case Study
 
-This project explores return rate challenges in a simulated fashion e-commerce dataset. Using SQL, Python, and Tableau, I investigated why 36% of orders were returned — costing an estimated **€179K** in lost net sales — and proposed data-backed strategies to reduce return volume by 5–10%.
+This project explores return rate challenges in a simulated fashion e-commerce dataset. Using SQL, Python, and Tableau, I investigated why 36% of orders were returned, costing an estimated **€179K** in lost net sales, and proposed data-backed strategies to reduce return volume by 5–10%.
 
 ## 🛠️ Tools & Techniques
 - **SQL:** Data modelling, segmentation, cohort & CLV analysis  
@@ -9,7 +9,7 @@ This project explores return rate challenges in a simulated fashion e-commerce d
 - **Visualisation:** Tableau dashboard for business stakeholders
 
 ## 📌 Key Highlights
-- Identified high-return categories (e.g. Shoes: 51%) and customer types (e.g. First-time buyers: 40%)
+- Identified high-return categories (e.g., Shoes: 51%) and customer types (e.g., First-time buyers: 40%)
 - Built predictive models (AUC: 0.78) to assess return likelihood
 - Modelled business impact of interventions (ROI: 10–15%)
 
