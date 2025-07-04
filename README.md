@@ -13,7 +13,7 @@ This project explores return rate challenges in a simulated fashion e-commerce d
 - Built predictive models (AUC: 0.78) to assess return likelihood
 - Modelled business impact of interventions (ROI: 10–15%)
 
-## 📊 Google Sheets Workbook Overview
+## 📊 Workbook Overview
 
 The analysis involved comprehensive data exploration and calculations within a structured Google Sheets workbook. Here's a glimpse into its organization:
 
