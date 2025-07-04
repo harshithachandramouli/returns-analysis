@@ -19,7 +19,7 @@ The analysis involved comprehensive data exploration and calculations within a s
 
 ![image](https://github.com/user-attachments/assets/ca830f02-ede3-4dac-8672-60f9edf134e4)
 
-*This screenshot shows the various sheets used for raw data, financial impact analysis, marketing analysis, time series analysis, customer segmentation, and category-specific insights.*
+*This image shows the various sheets used for raw data, financial impact analysis, marketing analysis, time series analysis, customer segmentation, and category-specific insights.*
 
 
 ## 📄 Project Materials
