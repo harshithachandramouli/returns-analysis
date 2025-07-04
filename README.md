@@ -13,6 +13,15 @@ This project explores return rate challenges in a simulated fashion e-commerce d
 - Built predictive models (AUC: 0.78) to assess return likelihood
 - Modelled business impact of interventions (ROI: 10–15%)
 
+## 📊 Google Sheets Workbook Overview
+
+The analysis involved comprehensive data exploration and calculations within a structured Google Sheets workbook. Here's a glimpse into its organization:
+
+![image](https://github.com/user-attachments/assets/ca830f02-ede3-4dac-8672-60f9edf134e4)
+
+*This screenshot shows the various sheets used for raw data, financial impact analysis, marketing analysis, time series analysis, customer segmentation, and category-specific insights.*
+
+
 ## 📄 Project Materials
 - 👉 [**Read the full case study brief**](https://drive.google.com/drive/u/1/folders/1rRbE7_wjNJqdLh1YT3yDYsoZ27T5Gsw7)
 - 📊 [**View Tableau Dashboard**](https://public.tableau.com/app/profile/harshitha.c4275/viz/ReturnsAnalysisEcommerce/ReturnInsights-Overview?publish=yes)
